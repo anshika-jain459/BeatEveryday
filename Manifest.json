@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Beat Everyday",
+    "version": "0.1.0",
+    "description": "Track your daily activities",
+    "author": "Anshika Jain",
+
+    "icons": {
+        "16": "/images/logo16.png",
+        "48": "/images/logo48.png",
+        "128": "/images/logo128.png"
+    },
+
+    "action": {
+        "default_icon": "/images/logo16.png",
+        "default_popup": "popup.html"
+    },
+
+    // "options_page": "option.html",
+
+    // "background": {
+    //     "service_worker": "eventPage.js"
+    // },
+
+    "permissions": ["storage", "notifications", "tabs"]
+}

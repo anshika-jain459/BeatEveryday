@@ -1,0 +1,16 @@
+body {
+    padding: 4%;
+    width: 400px;
+}
+
+li{
+    margin: 20px 0;
+}
+
+.btn-dark{
+    margin: 0 2px;
+}
+
+.button{
+    float: right;
+}
